@@ -1,0 +1,9 @@
+current directory --> cd
+
+files n folders present in current dir --> dir
+
+moving forward into sub-folder --> cd fileOrFolderName
+
+to go bCK --> cd ..
+
+clear --> cls
